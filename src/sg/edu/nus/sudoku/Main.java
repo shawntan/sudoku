@@ -9,7 +9,6 @@ package sg.edu.nus.sudoku;
  * saved configuration that is required, e.g. Player Name, player high scores
  * @author t
  *
- */
 public class Main {
 
 	/**
